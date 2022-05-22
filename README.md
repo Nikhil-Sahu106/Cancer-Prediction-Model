@@ -52,11 +52,8 @@ Features in the dataset :<br/>
 29.fractal_dimension_worst<br/>
 
 
-
-
-Target variable in the dataset:<br/>
-
 **************************************************************<br/>
+Target variable in the dataset:<br/>
 
 M - indicate Malignant<br/>
 B - indicate Begign<br/>

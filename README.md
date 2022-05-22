@@ -1,14 +1,14 @@
 FUTURE READY TALENT -INTERNSHIP PROJECT<br/>
-..........................................<br/>
+*****************************************************<br/>
 
 MICROSOFT AZURE IN HEALTH INDUSTRY<br/>
 In this project I am building a machine learning solution on Microsoft Azure and deploying it to predict whether a patient has a cancer at an early stage.<br/>
------------------------------------------------------------------------------------------------<br/>
+****************************************************************************************************************************************************************<br/>
 cancer-dataset.csv contains the dataset used in the project.<br/>
 Cancer_Prediction_Model.py is a final python file for the project.<br/>
 The python script can be executed in any code editor with custom input to predict heart disease.<br/>
+****************************************************************************************************************************************************************<br/>
 
--------------------------------------------------------------------------------------------------<br/>
 
 Core Azure services used :<br/>
 1.Machine Learning<br/>
@@ -18,7 +18,7 @@ Core Azure services used :<br/>
 5.Container instances<br/>
 6.Container registry<br/>
 
---------------------------------------------------------------------------------------------------<br/>
+****************************************************************************************************************************************************************<br/>
 
 Features in the dataset :<br/>
 1.radius_mean<br/>

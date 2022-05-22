@@ -21,7 +21,7 @@ Features in the dataset :<br/>
 1.radius_mean<br/>
 2.texture_mean<br/>
 3.perimeter_mean<br/>
-4area_mean.<br/>
+4.area_mean.<br/>
 5.smoothness_mean<br/>
 6.compactness_mean<br/>
 7.concavity_mean<br/>
@@ -33,28 +33,25 @@ Features in the dataset :<br/>
 13.perimeter_se<br/>
 14.area_se<br/>
 15.smoothness_se<br/>
-
 16.compactness_se<br/>
 17.concavity_se<br/>
 18.concave points_se<br/>
 19.symmetry_se<br/>
-20.<br/>
-21.<br/>
-22.radius_worst<br/>
-23.perimeter_worst<br/>
-24.texture_worst<br/>
-25.area_worst<br/>
-26.smoothness_worst<br/>
-27.compactness_worst<br/>
-28.concave points_worst<br/>
-29.symmetry_worst<br/>
-30.fractal_dimension_worst<br/>
+20.fractal_dimension_se<br/>
+21.radius_worst<br/>
+22.perimeter_worst<br/>
+23.texture_worst<br/>
+24.area_worst<br/>
+25.smoothness_worst<br/>
+26.compactness_worst<br/>
+27.concave points_worst<br/>
+28.symmetry_worst<br/>
+29.fractal_dimension_worst<br/>
 
 
 
 
 Target variable in the dataset:<br/>
-1.target<br/>
-<br/>
-Note : M - indicate Malignant<br/>
-       B indicate Begign<br/>
+Target
+M - indicate Malignant<br/>
+B - indicate Begign<br/>

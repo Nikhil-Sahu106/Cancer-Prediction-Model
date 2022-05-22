@@ -6,7 +6,7 @@ In this project I am building a machine learning solution on Microsoft Azure and
 ***************************************************************************************************************<br/>
 [cancer-dataset.csv](https://github.com/Nikhil-Sahu106/Cancer-Prediction-Model/blob/main/cancer-dataset.csv) contains the dataset used in the project.<br/>
 [cancer_prediction_model.py](https://github.com/Nikhil-Sahu106/Cancer-Prediction-Model/blob/main/cancer_prediction_model.py) is a final python file for the project.<br/>
-The python script can be executed in any code editor with custom input to predict heart disease.<br/>
+The python script can be executed in any code editor with custom input to predict Cancer disease.<br/>
 ***************************************************************************************************************<br/>
 
 

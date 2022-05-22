@@ -56,6 +56,10 @@ Features in the dataset :<br/>
 
 Target variable in the dataset:<br/>
 
+**************************************************************<br/>
 
 M - indicate Malignant<br/>
 B - indicate Begign<br/>
+
+**************************************************************<br/>
+

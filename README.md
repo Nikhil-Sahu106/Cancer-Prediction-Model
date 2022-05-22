@@ -5,7 +5,7 @@ MICROSOFT AZURE IN HEALTH INDUSTRY<br/>
 In this project I am building a machine learning solution on Microsoft Azure and deploying it to predict whether a patient has a cancer at an early stage.<br/>
 ***************************************************************************************************************<br/>
 cancer-dataset.csv contains the dataset used in the project.<br/>
-Cancer_Prediction_Model.py is a final python file for the project.<br/>
+cancer_prediction_model.py is a final python file for the project.<br/>
 The python script can be executed in any code editor with custom input to predict heart disease.<br/>
 ***************************************************************************************************************<br/>
 
